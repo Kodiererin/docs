@@ -64,3 +64,5 @@ Use your favorite text editor to open the file called *.git/info/exclude* within
 * [.gitignore](https://git-scm.com/docs/gitignore) in the Git documentation
 * [A collection of useful *.gitignore* templates](https://github.com/github/gitignore) in the github/gitignore repository
 * [gitignore.io](https://www.gitignore.io/) site
+
+## End
